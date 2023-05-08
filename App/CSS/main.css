@@ -1,0 +1,98 @@
+x{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+
+}
+
+h1{
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+h2{
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+
+}
+footer{
+	text-align: right;
+	font-size: 14px;
+	color: grey;
+	font-family: 'Playfair Display', serif;
+}
+.main-headers{
+	background-color: #DCDCDC;
+	width: 70%;
+	margin: auto;
+
+}
+.question {
+	text-align: center;
+}
+h3{
+	border: 1px solid;
+	padding: 7px;
+	border-radius: 5px;
+}
+img{
+	box-shadow: 0 0 15px 1px rgba(0,0,0,0.5);
+	width: 100%;
+	height: 400px;
+	opacity: 1;
+	transition: .5s;
+
+}
+img:hover{
+	opacity:0.5;
+}
+.content{
+	width: 70%;
+	margin:auto;
+	background-color: ;
+}
+.menu{
+	width: 70%;
+	padding: 20px 0;
+	background-color: #BEBEBE;
+	margin-bottom: 20px;
+	margin:auto;
+}
+.menu td {
+	text-align: center;
+	max-width: 50px;
+}
+button{
+	font-size: 15px;
+	padding: 5px 15px;
+	border-radius: 3px;
+	background-color: #FFFFF0;
+	font-family: 'Playfair Display', serif;
+}
+.menu button:hover{
+	transform: scale(1.1);
+	transition: 0.5s;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
+	color: white;
+	background-color: black;
+	font-family: 'Playfair Display', serif;
+	text-decoration: underline;
+}
+p{
+	font-family: 'Playfair Display', serif;
+}
+html{
+	background-color: #DCDCDC;
+}
+.Defination{
+	font-family: 'Montserrat', sans-serif;
+	background-color: #FFFFF0;
+}
+hr{
+	width: 70%;
+}
+.points{
+	font-family: 'Playfair Display', serif;
+}
+.star{
+	opacity: 0.65;
+}
